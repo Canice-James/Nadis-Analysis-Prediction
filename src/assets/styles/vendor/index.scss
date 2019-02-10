@@ -6,3 +6,11 @@
 @import 'jquery.datatables';
 @import 'fullcalendar';
 @import 'datepicker';
+
+.overlay-wind div#logo-wrapper {
+  display: none !important;
+}
+
+a#note-message {
+  display: none !important;
+}
